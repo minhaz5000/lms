@@ -1,0 +1,47 @@
+12
+9
+iot
+ouer
+1
+eoeor
+eoqioq
+a b
+c d
+3
+e f
+g h
+The alchemist
+PauloCoelho
+4
+penguin
+fiction
+5 point someone
+Chetan Bhagat
+5
+DK
+Romance
+The kite Runner
+Khaled Hosseini
+6
+DK
+Novel
+Intro to Algorithms
+Cormen
+7
+MITPress
+Mathematics
+Oxford Dictionary
+KH DK
+8
+Oxford University Press
+Language
+Modern Physics
+Crane
+10
+WWnorton
+Science
+Halliday Resnick
+Halliday
+11
+Edison Wesley
+Science
